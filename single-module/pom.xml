@@ -158,28 +158,7 @@
       <scope>test</scope>
     </dependency>
            
-           <dependency>
-                <groupId>org.codehaus.cargo</groupId>
-                <artifactId>cargo-core-uberjar</artifactId>
-                <version>1.5.0</version>
-                <exclusions>
-                    <exclusion>
-                        <artifactId>xercesImpl</artifactId>
-                        <groupId>xerces</groupId>
-                    </exclusion>
-                    <exclusion>
-                        <artifactId>xml-apis</artifactId>
-                        <groupId>xml-apis</groupId>
-                    </exclusion>
-                </exclusions>
-            </dependency>
-            <dependency>
-                <groupId>log4j</groupId>
-                <artifactId>log4j</artifactId>
-                <version>1.2.12</version>
-                <scope>compile</scope>
-            </dependency>
-
+  
 
 
   </dependencies>
