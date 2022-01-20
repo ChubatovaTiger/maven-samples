@@ -127,11 +127,11 @@
 
   <dependencies>
 
-  <plugin>
+  <dependency>
     <groupId>org.jetbrains.teamcity</groupId>
     <artifactId>oauth</artifactId>
     <version>2021.2</version>
-</plugin>
+</dependency>
 
    
 
