@@ -119,7 +119,7 @@
   <dependencies>
 
     <dependency>
-      <groupId>org.jetbrains.teamcity</groupId>
+      <groupId>jetbrains.teamcity</groupId>
       <artifactId>oauth</artifactId>
       <version>2021.2</version>
     </dependency>
