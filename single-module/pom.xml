@@ -118,11 +118,11 @@
 
   <dependencies>
 
-    <dependency>
-      <groupId>jetbrains.teamcity</groupId>
-      <artifactId>oauth</artifactId>
-      <version>2021.2</version>
-    </dependency>
+  <plugin>
+    <groupId>org.jetbrains.teamcity</groupId>
+    <artifactId>teamcity-configs-maven-plugin</artifactId>
+    <version>2021.2</version>
+</plugin>
 
    
 
